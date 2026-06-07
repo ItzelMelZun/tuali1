@@ -44,6 +44,63 @@ Este agente de WhatsApp no es un simple tomador de pedidos; actúa como un Aseso
 - Ejemplo de Respuesta del Agente:
   "Rosario, buenas tardes. Te recuerdo que quedan 2 horas para el cierre de pedidos de mañana. Revisando tus órdenes anteriores, veo que ya te toca surtir la categoría de sabores (Fanta/Sprite) para que el fin de semana no te quedes en ceros. ¿Te armo el pedido rápido con tus básicos de siempre para que no te presiones con el tiempo?"
 
+#PRECIOS Y PRODUCTOS OFRECIDOS POR LA APP TUALI 
+
+--- Hoja: Lista de Precios ---
+Lista de Precios de Productos			
+			
+N°	Producto	Presentación	Precio (MXN)
+1	Coca-Cola Original	600 ml	18
+2	Coca-Cola Original	2.5 L	42
+3	Coca-Cola Original	3 L	48
+4	Coca-Cola Sin Azúcar	600 ml	18
+5	Coca-Cola Sin Azúcar	2.5 L	42
+6	Coca-Cola Light	600 ml	18
+7	Sprite	600 ml	18
+8	Sprite	2.5 L	40
+9	Sprite	Sin Azúcar 600 ml	18
+10	Fanta Naranja	600 ml	18
+11	Fanta Naranja	2.5 L	40
+12	Fanta Fresa	600 ml	18
+13	Sidral Mundet	600 ml	18
+14	Sidral Mundet	2.5 L	40
+15	Fresca	600 ml	18
+16	Fresca Toronja	2.5 L	40
+17	Del Valle Frut	413 ml	16
+18	Del Valle Mango	1 L	28
+19	Del Valle Durazno	1 L	28
+20	Del Valle Manzana	1 L	28
+21	Valle Frut Citrus	600 ml	18
+22	Ciel Natural	600 ml	12
+23	Ciel Natural	1 L	15
+24	Ciel Natural	1.5 L	18
+25	Ciel Natural	10 L	42
+26	Ciel Natural	20 L	55
+27	Ciel Mineralizada	600 ml	16
+28	Powerade Mora Azul	600 ml	22
+29	Powerade Frutas	600 ml	22
+30	Powerade Ion4	1 L	32
+31	Fuze Tea Limón	600 ml	20
+32	Fuze Tea Durazno	600 ml	20
+33	Fuze Tea Té Negro	600 ml	20
+34	AdeS Soya Natural	946 ml	32
+35	AdeS Almendra	946 ml	38
+36	AdeS Coco	946 ml	38
+37	Santa Clara Entera	1 L	32
+38	Santa Clara Deslactosada	1 L	34
+39	Santa Clara Chocolate	250 ml	16
+40	Topo Chico Agua Mineral	600 ml	22
+41	Topo Chico Twist Limón	600 ml	24
+42	Topo Chico Twist Toronja	600 ml	24
+43	Coca-Cola Vidrio Retornable	355 ml	15
+44	Coca-Cola Lata	355 ml	17
+45	Coca-Cola Sin Azúcar Lata	355 ml	17
+46	Sprite Lata	355 ml	17
+47	Fanta Naranja Lata	355 ml	17
+48	Sidral Mundet Lata	355 ml	17
+49	Powerade Zero	600 ml	22
+50	Del Valle Reserva	1 L	42
+	Promedio de Precios		
 # =====================================================================
 # 5. REGLAS GENERALES DE COMPORTAMIENTO PARA LA IA
 # =====================================================================
